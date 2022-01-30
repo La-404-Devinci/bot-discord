@@ -1,0 +1,27 @@
+{
+  "name": "dino-bot",
+  "version": "1.0.0",
+  "description": "un bot discord pour la 404",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/La-404-Devinci/bot-discord.git"
+  },
+  "author": "kymono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/La-404-Devinci/bot-discord/issues"
+  },
+  "homepage": "https://github.com/La-404-Devinci/bot-discord#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "discord.js": "^13.6.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.10.0"
+  }
+}
